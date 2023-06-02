@@ -1,1 +1,1 @@
-This is the README.md file at the root of the repository updated
+i.e. your README.md file will be updated
